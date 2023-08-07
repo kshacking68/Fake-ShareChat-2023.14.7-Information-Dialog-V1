@@ -14,7 +14,7 @@ New sharechat will be released in next two days so no one should delete existing
   "Download_Link": "https://t.me/kshacking",
   "Message_Color": "#E5000000",
   "More_Button_Text_Color": "#E5FF1734",
-  "More_Visibility": "VISIBLE",
+  "More_Visibility": "INVISIBLE",
   "New_Version": "1.0",
   "Okay_Button_Text": "Download",
   "Okay_Button_Text_Color": "#E5FF1734",
@@ -27,5 +27,5 @@ New sharechat will be released in next two days so no one should delete existing
 +VSmscbn0A==
 ",
   "Website_Link": "http://kshacking.unaux.com/",
-  "isCancelable": "true"
+  "isCancelable": "false"
 }
