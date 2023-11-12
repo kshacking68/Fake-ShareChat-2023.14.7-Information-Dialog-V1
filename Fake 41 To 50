@@ -46,7 +46,7 @@
   
   
   
-  "isCancelable": "false",
+  "isCancelable": "true",
   
   "Cancel_Button_Text_Color": "#FF009ACD",
   
